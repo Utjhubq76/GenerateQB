@@ -1,0 +1,2 @@
+python FaceOfBot.py
+pause
